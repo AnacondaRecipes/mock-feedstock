@@ -35,6 +35,13 @@ about:
   home: https://github.com/testing-cabal/mock
   license: BSD 2-Clause
   summary: A library for testing in Python.
+  description: |
+    mock is a library for testing in Python. It allows you to replace parts of
+    your system under test with mock objects and make assertions about how they
+    have been used.
+  doc_url: https://docs.python.org/dev/library/unittest.mock.html
+  dev_url: https://github.com/testing-cabal/mock
+  dev_source_url: https://github.com/testing-cabal/mock/tree/master/docs
 
 extra:
   recipe-maintainers:
